@@ -1,4 +1,4 @@
-//mengimpor modul 'rumus.js'
+//mengimpor modul 'perhitungan.js'
 const perhitungan = require('./perhitungan');
 
 //menentukan nilai sisi persegi dan menentukan panjang serta lebar persegi panjang
